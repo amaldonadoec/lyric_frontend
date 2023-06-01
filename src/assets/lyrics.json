@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "IGLESIA PEREGRINA",
+    "lyric": "1.Todos unidos formando un solo pueblo\r\nUn pueblo que en la pascua nacio\r\n miembros de cristo en sangre redimidos iglesia peregrina de dios \r\nVive en nosotros la fuerza del espiritu \r\nQue el hijo desde el padre envio \r\nEl nos empuja nos guia y alimenta\r\n iglesia peregrina de dios\r\nSomos en la tierra \r\nSemillas de otro reino \r\nSomos testimonio de amor\r\n/paz para las guerras \r\nY luz entre las sombras\r\nIglesia peregrina de dios/\r\n2.rugen tormentas \r\nQue aveces nuestra barca\r\nParece que a perdido el timon \r\nMiras con miedo no tienes la confianza iglesia peregrina de dios\r\nUna esperanza nos llena de alegria \r\nPresencia que el se\u00f1or prometio \r\nVamos cantando el viene con nosotros \r\nIglesia peregrina de dios\r\n3.todos nacidos en un solo bautismo\r\nUnidos en la misma comunion \r\nTodos viviendo en una misma casa\r\nIglesia peregrina de dios\r\nTodos luchando por una misma causa \r\nUnidos para el reino de dios \r\nSomos un cuerpo y cristo es la cabeza \r\nIglesia peregrina de dios.",
+    "status": "PUBLISHED",
+    "created_at": "2023-05-29 18:22:22",
+    "updated_at": "2023-05-29 18:24:20",
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "title": "AHI TIENE A LA VIRGEN",
+    "lyric": "Ah\u00ed tienen a la virgen \r\nMas bonita y mas hermosa\r\nSus ojos son dos luceros \r\nLabios petalos de rosa\r\nSu gracias es amor divino \r\nSu imagen es morenita \r\nSu manto es de filos de oro \r\nJamas e visto otra mas bonita\r\nAy yayai que linda eres\r\nAy yayai como nos quieres\r\nAdios a mi sufrimiento\r\nContigo siempre vivo contento",
+    "status": "PUBLISHED",
+    "created_at": "2023-05-29 20:53:07",
+    "updated_at": "2023-05-29 20:53:07",
+    "deleted_at": null
+  },
+  {
+    "id": 3,
+    "title": "Jesucristo es mi se\u00f1or",
+    "lyric": "Jesucristo es mi se\u00f1or,                         due\u00f1o de mi coraz\u00f3n.                                     \u00c9l est\u00e1 conmigo nada temer\u00e9                     Jesucristo es mi se\u00f1or.\r\nEs la calma en medio de la tempestad.                                                   El alivio a mi pobre alma el en dolor                                                                Jesucristo es mi refugio, mi raz\u00f3n de ser. \u00c9l es mi protector. \r\nNada me har\u00e1 cambiar, menos retroceder,                                                    Mi vida est\u00e1 en las manos de Jes\u00fas de Nazaret",
+    "status": "PUBLISHED",
+    "created_at": "2023-05-29 20:53:26",
+    "updated_at": "2023-05-29 20:55:36",
+    "deleted_at": null
+  },
+  {
+    "id": 4,
+    "title": "Hosanna eh",
+    "lyric": "/Hosanna eh, hosanna ah,                                                        hosanna eh, hosanna eh, hosanna eh/\r\n/\u00c9l es el santo  es el hijo de Mar\u00eda                                                    es el Dios de Israel                                                                            Es el hijo de David/\r\n/Vamos a \u00e9l con espigas de mil trigos                                                Y con mil ramos de olivos                                                      Siempre alegres siempre en paz/\r\n/Es la alegr\u00eda es la raz\u00f3n de mi existir                                                  Es la vida de mi vida                                                                  Es consuelo en mi sufrir/",
+    "status": "PUBLISHED",
+    "created_at": "2023-05-29 20:53:56",
+    "updated_at": "2023-05-29 20:54:02",
+    "deleted_at": null
+  }
+]
